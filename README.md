@@ -53,7 +53,8 @@ namespace program11{
 }
 
 # Output:
-![alt text](C#-06.png)
+![C#-06](https://github.com/Udhayasankaran04/19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function/assets/119393933/7bffebbe-db86-45e6-91d1-bc03f6a0fd0e)
+
 
 # Result:
 The program for reverse a number using recursion was executed successfully.

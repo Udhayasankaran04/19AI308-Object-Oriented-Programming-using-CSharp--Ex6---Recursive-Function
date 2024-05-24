@@ -21,8 +21,10 @@ Multiply the current reversed number by 10 and add the last digit.
 Call the method with the remaining digits by dividing the number by 10.
 
 # Program:
+```
 using System;
-namespace program11{
+namespace program11
+{
     class Program
     {
         static int ReverseNumber(int num, int reversedNum = 0)
@@ -51,6 +53,7 @@ namespace program11{
         }
     }
 }
+```
 
 # Output:
 ![C#-06](https://github.com/Udhayasankaran04/19AI308-Object-Oriented-Programming-using-CSharp--Ex6---Recursive-Function/assets/119393933/7bffebbe-db86-45e6-91d1-bc03f6a0fd0e)
